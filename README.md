@@ -20,9 +20,9 @@ El proyecto genera gráficos de **barras, líneas y pastel** para visualizar ten
   - Evolución de versiones según la fecha de adquisición (gráfico de líneas) 📉
   - Distribución de juegos por plataforma y género (gráficos de pastel) 🥧
 
-## 📂 Estructura del Proyecto
-- `Tienda-Videojuegos.py` → Script principal con análisis y visualizaciones.
-- `Tienda-Videojuegos.xlsx` → Archivo de datos con información de los videojuegos.
+<img width="1366" height="687" alt="image" src="https://github.com/user-attachments/assets/63d7d977-8e39-4f69-9d43-2ac0e94ecfeb" />
+<img width="1366" height="666" alt="image" src="https://github.com/user-attachments/assets/0c1f5242-a466-4167-b687-ab23257bef8e" />
+<img width="1364" height="492" alt="image" src="https://github.com/user-attachments/assets/1234bf0c-5a06-4c10-9633-fcf6fc617c7f" />
 
 ## 🚀 Cómo Usar
 1. Clonar el repositorio:
